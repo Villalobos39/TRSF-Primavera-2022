@@ -1,0 +1,14 @@
+C:\Users\dulso\source\repos\FuncionPotencia\FuncionPotencia\bin\Debug\netcoreapp3.1\FuncionPotencia.exe
+C:\Users\dulso\source\repos\FuncionPotencia\FuncionPotencia\bin\Debug\netcoreapp3.1\FuncionPotencia.deps.json
+C:\Users\dulso\source\repos\FuncionPotencia\FuncionPotencia\bin\Debug\netcoreapp3.1\FuncionPotencia.runtimeconfig.json
+C:\Users\dulso\source\repos\FuncionPotencia\FuncionPotencia\bin\Debug\netcoreapp3.1\FuncionPotencia.runtimeconfig.dev.json
+C:\Users\dulso\source\repos\FuncionPotencia\FuncionPotencia\bin\Debug\netcoreapp3.1\FuncionPotencia.dll
+C:\Users\dulso\source\repos\FuncionPotencia\FuncionPotencia\bin\Debug\netcoreapp3.1\FuncionPotencia.pdb
+C:\Users\dulso\source\repos\FuncionPotencia\FuncionPotencia\obj\Debug\netcoreapp3.1\FuncionPotencia.csproj.AssemblyReference.cache
+C:\Users\dulso\source\repos\FuncionPotencia\FuncionPotencia\obj\Debug\netcoreapp3.1\FuncionPotencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dulso\source\repos\FuncionPotencia\FuncionPotencia\obj\Debug\netcoreapp3.1\FuncionPotencia.AssemblyInfoInputs.cache
+C:\Users\dulso\source\repos\FuncionPotencia\FuncionPotencia\obj\Debug\netcoreapp3.1\FuncionPotencia.AssemblyInfo.cs
+C:\Users\dulso\source\repos\FuncionPotencia\FuncionPotencia\obj\Debug\netcoreapp3.1\FuncionPotencia.csproj.CoreCompileInputs.cache
+C:\Users\dulso\source\repos\FuncionPotencia\FuncionPotencia\obj\Debug\netcoreapp3.1\FuncionPotencia.dll
+C:\Users\dulso\source\repos\FuncionPotencia\FuncionPotencia\obj\Debug\netcoreapp3.1\FuncionPotencia.pdb
+C:\Users\dulso\source\repos\FuncionPotencia\FuncionPotencia\obj\Debug\netcoreapp3.1\FuncionPotencia.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\dulso\source\repos\AlbumFotos\AlbumFotos\bin\Debug\netcoreapp3.1\AlbumFotos.exe
+C:\Users\dulso\source\repos\AlbumFotos\AlbumFotos\bin\Debug\netcoreapp3.1\AlbumFotos.deps.json
+C:\Users\dulso\source\repos\AlbumFotos\AlbumFotos\bin\Debug\netcoreapp3.1\AlbumFotos.runtimeconfig.json
+C:\Users\dulso\source\repos\AlbumFotos\AlbumFotos\bin\Debug\netcoreapp3.1\AlbumFotos.runtimeconfig.dev.json
+C:\Users\dulso\source\repos\AlbumFotos\AlbumFotos\bin\Debug\netcoreapp3.1\AlbumFotos.dll
+C:\Users\dulso\source\repos\AlbumFotos\AlbumFotos\bin\Debug\netcoreapp3.1\AlbumFotos.pdb
+C:\Users\dulso\source\repos\AlbumFotos\AlbumFotos\obj\Debug\netcoreapp3.1\AlbumFotos.csproj.AssemblyReference.cache
+C:\Users\dulso\source\repos\AlbumFotos\AlbumFotos\obj\Debug\netcoreapp3.1\AlbumFotos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dulso\source\repos\AlbumFotos\AlbumFotos\obj\Debug\netcoreapp3.1\AlbumFotos.AssemblyInfoInputs.cache
+C:\Users\dulso\source\repos\AlbumFotos\AlbumFotos\obj\Debug\netcoreapp3.1\AlbumFotos.AssemblyInfo.cs
+C:\Users\dulso\source\repos\AlbumFotos\AlbumFotos\obj\Debug\netcoreapp3.1\AlbumFotos.csproj.CoreCompileInputs.cache
+C:\Users\dulso\source\repos\AlbumFotos\AlbumFotos\obj\Debug\netcoreapp3.1\AlbumFotos.dll
+C:\Users\dulso\source\repos\AlbumFotos\AlbumFotos\obj\Debug\netcoreapp3.1\AlbumFotos.pdb
+C:\Users\dulso\source\repos\AlbumFotos\AlbumFotos\obj\Debug\netcoreapp3.1\AlbumFotos.genruntimeconfig.cache
