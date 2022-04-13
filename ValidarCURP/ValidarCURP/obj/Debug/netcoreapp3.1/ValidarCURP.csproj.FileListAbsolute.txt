@@ -1,0 +1,14 @@
+C:\Users\dulso\source\repos\ValidarCURP\ValidarCURP\bin\Debug\netcoreapp3.1\ValidarCURP.exe
+C:\Users\dulso\source\repos\ValidarCURP\ValidarCURP\bin\Debug\netcoreapp3.1\ValidarCURP.deps.json
+C:\Users\dulso\source\repos\ValidarCURP\ValidarCURP\bin\Debug\netcoreapp3.1\ValidarCURP.runtimeconfig.json
+C:\Users\dulso\source\repos\ValidarCURP\ValidarCURP\bin\Debug\netcoreapp3.1\ValidarCURP.runtimeconfig.dev.json
+C:\Users\dulso\source\repos\ValidarCURP\ValidarCURP\bin\Debug\netcoreapp3.1\ValidarCURP.dll
+C:\Users\dulso\source\repos\ValidarCURP\ValidarCURP\bin\Debug\netcoreapp3.1\ValidarCURP.pdb
+C:\Users\dulso\source\repos\ValidarCURP\ValidarCURP\obj\Debug\netcoreapp3.1\ValidarCURP.csproj.AssemblyReference.cache
+C:\Users\dulso\source\repos\ValidarCURP\ValidarCURP\obj\Debug\netcoreapp3.1\ValidarCURP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dulso\source\repos\ValidarCURP\ValidarCURP\obj\Debug\netcoreapp3.1\ValidarCURP.AssemblyInfoInputs.cache
+C:\Users\dulso\source\repos\ValidarCURP\ValidarCURP\obj\Debug\netcoreapp3.1\ValidarCURP.AssemblyInfo.cs
+C:\Users\dulso\source\repos\ValidarCURP\ValidarCURP\obj\Debug\netcoreapp3.1\ValidarCURP.csproj.CoreCompileInputs.cache
+C:\Users\dulso\source\repos\ValidarCURP\ValidarCURP\obj\Debug\netcoreapp3.1\ValidarCURP.dll
+C:\Users\dulso\source\repos\ValidarCURP\ValidarCURP\obj\Debug\netcoreapp3.1\ValidarCURP.pdb
+C:\Users\dulso\source\repos\ValidarCURP\ValidarCURP\obj\Debug\netcoreapp3.1\ValidarCURP.genruntimeconfig.cache
