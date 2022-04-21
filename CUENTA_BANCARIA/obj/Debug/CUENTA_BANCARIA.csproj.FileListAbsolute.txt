@@ -1,0 +1,10 @@
+C:\Users\dulso\source\repos\CUENTA_BANCARIA\bin\Debug\CUENTA_BANCARIA.exe.config
+C:\Users\dulso\source\repos\CUENTA_BANCARIA\bin\Debug\CUENTA_BANCARIA.exe
+C:\Users\dulso\source\repos\CUENTA_BANCARIA\bin\Debug\CUENTA_BANCARIA.pdb
+C:\Users\dulso\source\repos\CUENTA_BANCARIA\obj\Debug\CUENTA_BANCARIA.csproj.AssemblyReference.cache
+C:\Users\dulso\source\repos\CUENTA_BANCARIA\obj\Debug\CUENTA_BANCARIA.Form1.resources
+C:\Users\dulso\source\repos\CUENTA_BANCARIA\obj\Debug\CUENTA_BANCARIA.Properties.Resources.resources
+C:\Users\dulso\source\repos\CUENTA_BANCARIA\obj\Debug\CUENTA_BANCARIA.csproj.GenerateResource.cache
+C:\Users\dulso\source\repos\CUENTA_BANCARIA\obj\Debug\CUENTA_BANCARIA.csproj.CoreCompileInputs.cache
+C:\Users\dulso\source\repos\CUENTA_BANCARIA\obj\Debug\CUENTA_BANCARIA.exe
+C:\Users\dulso\source\repos\CUENTA_BANCARIA\obj\Debug\CUENTA_BANCARIA.pdb
