@@ -1,0 +1,14 @@
+C:\Users\dulso\source\repos\EjerciciosBasicos\Practicas\bin\Debug\netcoreapp3.1\Practicas.exe
+C:\Users\dulso\source\repos\EjerciciosBasicos\Practicas\bin\Debug\netcoreapp3.1\Practicas.deps.json
+C:\Users\dulso\source\repos\EjerciciosBasicos\Practicas\bin\Debug\netcoreapp3.1\Practicas.runtimeconfig.json
+C:\Users\dulso\source\repos\EjerciciosBasicos\Practicas\bin\Debug\netcoreapp3.1\Practicas.runtimeconfig.dev.json
+C:\Users\dulso\source\repos\EjerciciosBasicos\Practicas\bin\Debug\netcoreapp3.1\Practicas.dll
+C:\Users\dulso\source\repos\EjerciciosBasicos\Practicas\bin\Debug\netcoreapp3.1\Practicas.pdb
+C:\Users\dulso\source\repos\EjerciciosBasicos\Practicas\obj\Debug\netcoreapp3.1\Practicas.csproj.AssemblyReference.cache
+C:\Users\dulso\source\repos\EjerciciosBasicos\Practicas\obj\Debug\netcoreapp3.1\Practicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dulso\source\repos\EjerciciosBasicos\Practicas\obj\Debug\netcoreapp3.1\Practicas.AssemblyInfoInputs.cache
+C:\Users\dulso\source\repos\EjerciciosBasicos\Practicas\obj\Debug\netcoreapp3.1\Practicas.AssemblyInfo.cs
+C:\Users\dulso\source\repos\EjerciciosBasicos\Practicas\obj\Debug\netcoreapp3.1\Practicas.csproj.CoreCompileInputs.cache
+C:\Users\dulso\source\repos\EjerciciosBasicos\Practicas\obj\Debug\netcoreapp3.1\Practicas.dll
+C:\Users\dulso\source\repos\EjerciciosBasicos\Practicas\obj\Debug\netcoreapp3.1\Practicas.pdb
+C:\Users\dulso\source\repos\EjerciciosBasicos\Practicas\obj\Debug\netcoreapp3.1\Practicas.genruntimeconfig.cache

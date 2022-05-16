@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pxsJlYgh0I9SAxKYs7lBTHYFWz2uv2w/RB/fUrLPE/syu8N6cxCno8x2PggCFiSgYrx40iXowY0fMfMA57A3bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\villa\\source\\repos\\PD_Observer_DulceJasminVillalobosPerez\\PD_Observer_DulceJasminVillalobosPerez\\PD_Observer_DulceJasminVillalobosPerez.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\villa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\villa\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

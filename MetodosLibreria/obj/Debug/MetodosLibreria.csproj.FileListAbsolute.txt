@@ -1,0 +1,6 @@
+C:\Users\dulso\source\repos\MetodosLibreria\bin\Debug\MetodosLibreria.dll
+C:\Users\dulso\source\repos\MetodosLibreria\bin\Debug\MetodosLibreria.pdb
+C:\Users\dulso\source\repos\MetodosLibreria\obj\Debug\MetodosLibreria.csproj.AssemblyReference.cache
+C:\Users\dulso\source\repos\MetodosLibreria\obj\Debug\MetodosLibreria.csproj.CoreCompileInputs.cache
+C:\Users\dulso\source\repos\MetodosLibreria\obj\Debug\MetodosLibreria.dll
+C:\Users\dulso\source\repos\MetodosLibreria\obj\Debug\MetodosLibreria.pdb

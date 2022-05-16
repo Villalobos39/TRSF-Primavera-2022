@@ -1,0 +1,13 @@
+C:\Users\dulso\source\repos\Cuenta_Ahorro\bin\Debug\Cuenta_Ahorro.exe.config
+C:\Users\dulso\source\repos\Cuenta_Ahorro\bin\Debug\Cuenta_Ahorro.exe
+C:\Users\dulso\source\repos\Cuenta_Ahorro\bin\Debug\Cuenta_Ahorro.pdb
+C:\Users\dulso\source\repos\Cuenta_Ahorro\bin\Debug\MetodosLibreria.dll
+C:\Users\dulso\source\repos\Cuenta_Ahorro\bin\Debug\MetodosLibreria.pdb
+C:\Users\dulso\source\repos\Cuenta_Ahorro\obj\Debug\Cuenta_Ahorro.csproj.AssemblyReference.cache
+C:\Users\dulso\source\repos\Cuenta_Ahorro\obj\Debug\Cuenta_Ahorro.Form1.resources
+C:\Users\dulso\source\repos\Cuenta_Ahorro\obj\Debug\Cuenta_Ahorro.Properties.Resources.resources
+C:\Users\dulso\source\repos\Cuenta_Ahorro\obj\Debug\Cuenta_Ahorro.csproj.GenerateResource.cache
+C:\Users\dulso\source\repos\Cuenta_Ahorro\obj\Debug\Cuenta_Ahorro.csproj.CoreCompileInputs.cache
+C:\Users\dulso\source\repos\Cuenta_Ahorro\obj\Debug\Cuenta_Ahorro.csproj.CopyComplete
+C:\Users\dulso\source\repos\Cuenta_Ahorro\obj\Debug\Cuenta_Ahorro.exe
+C:\Users\dulso\source\repos\Cuenta_Ahorro\obj\Debug\Cuenta_Ahorro.pdb

@@ -1,0 +1,16 @@
+C:\Users\dulso\source\repos\CuentaAhorro\bin\Debug\netcoreapp3.1\CuentaAhorro.exe
+C:\Users\dulso\source\repos\CuentaAhorro\bin\Debug\netcoreapp3.1\CuentaAhorro.deps.json
+C:\Users\dulso\source\repos\CuentaAhorro\bin\Debug\netcoreapp3.1\CuentaAhorro.runtimeconfig.json
+C:\Users\dulso\source\repos\CuentaAhorro\bin\Debug\netcoreapp3.1\CuentaAhorro.runtimeconfig.dev.json
+C:\Users\dulso\source\repos\CuentaAhorro\bin\Debug\netcoreapp3.1\CuentaAhorro.dll
+C:\Users\dulso\source\repos\CuentaAhorro\bin\Debug\netcoreapp3.1\CuentaAhorro.pdb
+C:\Users\dulso\source\repos\CuentaAhorro\obj\Debug\netcoreapp3.1\CuentaAhorro.csproj.AssemblyReference.cache
+C:\Users\dulso\source\repos\CuentaAhorro\obj\Debug\netcoreapp3.1\CuentaAhorro.Form1.resources
+C:\Users\dulso\source\repos\CuentaAhorro\obj\Debug\netcoreapp3.1\CuentaAhorro.csproj.GenerateResource.cache
+C:\Users\dulso\source\repos\CuentaAhorro\obj\Debug\netcoreapp3.1\CuentaAhorro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dulso\source\repos\CuentaAhorro\obj\Debug\netcoreapp3.1\CuentaAhorro.AssemblyInfoInputs.cache
+C:\Users\dulso\source\repos\CuentaAhorro\obj\Debug\netcoreapp3.1\CuentaAhorro.AssemblyInfo.cs
+C:\Users\dulso\source\repos\CuentaAhorro\obj\Debug\netcoreapp3.1\CuentaAhorro.csproj.CoreCompileInputs.cache
+C:\Users\dulso\source\repos\CuentaAhorro\obj\Debug\netcoreapp3.1\CuentaAhorro.dll
+C:\Users\dulso\source\repos\CuentaAhorro\obj\Debug\netcoreapp3.1\CuentaAhorro.pdb
+C:\Users\dulso\source\repos\CuentaAhorro\obj\Debug\netcoreapp3.1\CuentaAhorro.genruntimeconfig.cache
