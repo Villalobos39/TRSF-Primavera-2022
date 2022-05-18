@@ -1,0 +1,14 @@
+C:\Users\dulso\source\repos\Proyecto_Anime\bin\Debug\netcoreapp3.1\Proyecto_Anime.exe
+C:\Users\dulso\source\repos\Proyecto_Anime\bin\Debug\netcoreapp3.1\Proyecto_Anime.deps.json
+C:\Users\dulso\source\repos\Proyecto_Anime\bin\Debug\netcoreapp3.1\Proyecto_Anime.runtimeconfig.json
+C:\Users\dulso\source\repos\Proyecto_Anime\bin\Debug\netcoreapp3.1\Proyecto_Anime.runtimeconfig.dev.json
+C:\Users\dulso\source\repos\Proyecto_Anime\bin\Debug\netcoreapp3.1\Proyecto_Anime.dll
+C:\Users\dulso\source\repos\Proyecto_Anime\bin\Debug\netcoreapp3.1\Proyecto_Anime.pdb
+C:\Users\dulso\source\repos\Proyecto_Anime\obj\Debug\netcoreapp3.1\Proyecto_Anime.csproj.AssemblyReference.cache
+C:\Users\dulso\source\repos\Proyecto_Anime\obj\Debug\netcoreapp3.1\Proyecto_Anime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dulso\source\repos\Proyecto_Anime\obj\Debug\netcoreapp3.1\Proyecto_Anime.AssemblyInfoInputs.cache
+C:\Users\dulso\source\repos\Proyecto_Anime\obj\Debug\netcoreapp3.1\Proyecto_Anime.AssemblyInfo.cs
+C:\Users\dulso\source\repos\Proyecto_Anime\obj\Debug\netcoreapp3.1\Proyecto_Anime.csproj.CoreCompileInputs.cache
+C:\Users\dulso\source\repos\Proyecto_Anime\obj\Debug\netcoreapp3.1\Proyecto_Anime.dll
+C:\Users\dulso\source\repos\Proyecto_Anime\obj\Debug\netcoreapp3.1\Proyecto_Anime.pdb
+C:\Users\dulso\source\repos\Proyecto_Anime\obj\Debug\netcoreapp3.1\Proyecto_Anime.genruntimeconfig.cache
