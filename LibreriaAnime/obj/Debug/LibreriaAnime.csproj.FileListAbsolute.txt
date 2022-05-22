@@ -1,0 +1,9 @@
+C:\Users\dulso\source\repos\LibreriaAnime\obj\Debug\LibreriaAnime.csproj.AssemblyReference.cache
+C:\Users\dulso\source\repos\LibreriaAnime\obj\Debug\LibreriaAnime.csproj.CoreCompileInputs.cache
+C:\Users\dulso\source\repos\LibreriaAnime\bin\Debug\LibreriaAnime.dll
+C:\Users\dulso\source\repos\LibreriaAnime\bin\Debug\LibreriaAnime.pdb
+C:\Users\dulso\source\repos\LibreriaAnime\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dulso\source\repos\LibreriaAnime\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dulso\source\repos\LibreriaAnime\obj\Debug\LibreriaAnime.csproj.CopyComplete
+C:\Users\dulso\source\repos\LibreriaAnime\obj\Debug\LibreriaAnime.dll
+C:\Users\dulso\source\repos\LibreriaAnime\obj\Debug\LibreriaAnime.pdb

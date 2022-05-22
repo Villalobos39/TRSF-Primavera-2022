@@ -1,11 +1,29 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "LibreriaAnime/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/LibreriaAnime.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibreriaAnime.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "LibreriaAnime/1.0.0": {
+      "type": "project",
+      "path": "../LibreriaAnime/LibreriaAnime.csproj",
+      "msbuildProject": "../LibreriaAnime/LibreriaAnime.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "LibreriaAnime >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\dulso\\.nuget\\packages\\": {}
@@ -33,7 +51,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\dulso\\source\\repos\\LibreriaAnime\\LibreriaAnime.csproj": {
+              "projectPath": "C:\\Users\\dulso\\source\\repos\\LibreriaAnime\\LibreriaAnime.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

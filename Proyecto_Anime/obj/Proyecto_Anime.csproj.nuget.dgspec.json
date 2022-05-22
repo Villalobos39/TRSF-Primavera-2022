@@ -4,6 +4,21 @@
     "C:\\Users\\dulso\\source\\repos\\Proyecto_Anime\\Proyecto_Anime.csproj": {}
   },
   "projects": {
+    "C:\\Users\\dulso\\source\\repos\\LibreriaAnime\\LibreriaAnime.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dulso\\source\\repos\\LibreriaAnime\\LibreriaAnime.csproj",
+        "projectName": "LibreriaAnime",
+        "projectPath": "C:\\Users\\dulso\\source\\repos\\LibreriaAnime\\LibreriaAnime.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "C:\\Users\\dulso\\source\\repos\\Proyecto_Anime\\Proyecto_Anime.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +42,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\dulso\\source\\repos\\LibreriaAnime\\LibreriaAnime.csproj": {
+                "projectPath": "C:\\Users\\dulso\\source\\repos\\LibreriaAnime\\LibreriaAnime.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

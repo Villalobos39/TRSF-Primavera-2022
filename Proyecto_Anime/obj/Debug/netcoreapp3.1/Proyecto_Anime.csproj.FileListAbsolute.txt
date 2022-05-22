@@ -12,3 +12,8 @@ C:\Users\dulso\source\repos\Proyecto_Anime\obj\Debug\netcoreapp3.1\Proyecto_Anim
 C:\Users\dulso\source\repos\Proyecto_Anime\obj\Debug\netcoreapp3.1\Proyecto_Anime.dll
 C:\Users\dulso\source\repos\Proyecto_Anime\obj\Debug\netcoreapp3.1\Proyecto_Anime.pdb
 C:\Users\dulso\source\repos\Proyecto_Anime\obj\Debug\netcoreapp3.1\Proyecto_Anime.genruntimeconfig.cache
+C:\Users\dulso\source\repos\Proyecto_Anime\bin\Debug\netcoreapp3.1\LibreriaAnime.dll
+C:\Users\dulso\source\repos\Proyecto_Anime\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dulso\source\repos\Proyecto_Anime\bin\Debug\netcoreapp3.1\LibreriaAnime.pdb
+C:\Users\dulso\source\repos\Proyecto_Anime\bin\Debug\netcoreapp3.1\Newtonsoft.Json.xml
+C:\Users\dulso\source\repos\Proyecto_Anime\obj\Debug\netcoreapp3.1\Proyecto_Anime.csproj.CopyComplete
